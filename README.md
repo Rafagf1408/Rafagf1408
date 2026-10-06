@@ -49,7 +49,7 @@
 - Refactorización e implementación de módulos para sistemas CRS internos.
 - Atención y resolución de incidencias técnicas en infraestructura y software.
 
-#### **Software Developer** | *Transp. Marva*
+#### **Software Developer** | *Transportes Marva*
 *Dic 2023 – Ene 2025*
 - Desarrollo y migración del Sistema de Logística SILA con .NET, Windows Forms y SQL Server.
 - Consultas de alto rendimiento y mapping ORM utilizando Dapper.
