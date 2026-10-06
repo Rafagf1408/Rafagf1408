@@ -1,7 +1,7 @@
 # Hi there, I'm Rafael González Flores 👋💻🤓
 
 > **Software Developer | Backend & Full Stack**  
-> Licenciado en Sistemas Computacionales \
+> **Licenciado en Sistemas Computacionales** \
 > Enfocado en la mejora continua del ciclo de vida del software, optimización de bases de datos y desarrollo backend sustentable.
 ---
 
