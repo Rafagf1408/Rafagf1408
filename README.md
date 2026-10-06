@@ -44,7 +44,7 @@
 ### 💼 Work Experience
 
 #### **Software Developer / Technical Support** | *Fundación MSI*
-*Ene 2025 – Sep 2026*
+*Ene 2025 – Oct 2026*
 - Desarrollo y soporte en sistemas internos utilizando PHP (Vanilla & Symfony).
 - Refactorización e implementación de módulos para sistemas CRS internos.
 - Atención y resolución de incidencias técnicas en infraestructura y software.
